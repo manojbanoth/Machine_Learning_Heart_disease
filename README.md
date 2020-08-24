@@ -6,3 +6,4 @@
 Algorithm Used
  - Logistic_Regession
  - Decision_Tree
+ - xgBoost
