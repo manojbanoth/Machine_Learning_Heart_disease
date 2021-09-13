@@ -7,3 +7,4 @@ Algorithm Used
  - Logistic_Regession
  - Decision_Tree
  - xgBoost
+ - Random Froset
